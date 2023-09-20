@@ -1,7 +1,8 @@
 
 
 
-   <img width="575" alt="image" src="https://github.com/AnnaGVA/AnnaGVA/assets/145443169/6804fea7-66d3-47ff-bd9d-fc934fd81153">
+   <img width="575" alt="image" src="https://github.com/AnnaGVA/AnnaGVA/assets/145443169/27fa49fc-68e5-4aac-9184-a0c7b0a72799">
+
 
 
 
