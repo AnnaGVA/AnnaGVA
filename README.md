@@ -1,8 +1,7 @@
 
 
 
-
-<img width="500" alt="image" src="https://github.com/AnnaGVA/AnnaGVA/assets/145443169/cd4a0237-e430-43af-b94a-cde4126a2c7f">
+   <img width="500" alt="image" src="https://github.com/AnnaGVA/AnnaGVA/assets/145443169/cd4a0237-e430-43af-b94a-cde4126a2c7f">
 
 
 [![](https://camo.githubusercontent.com/303a63322c7738ddb3025be1aaf29114573a7aee6e9e719caddaa9f838517d86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b616b626172267374796c653d666c61742d73717561726526636f6c6f723d626c7565)](https://camo.githubusercontent.com/303a63322c7738ddb3025be1aaf29114573a7aee6e9e719caddaa9f838517d86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b616b626172267374796c653d666c61742d73717561726526636f6c6f723d626c7565)
@@ -16,7 +15,7 @@ I’m a ***UX/UI Designer*** who loves forward-thinking and creates useful and i
 
 - 🔭 I create useful, engaging, and **intuitive tools** that help users to improve their lives 💞
 - 💜 I’m interested in *Web Design*, *Design Thinking*, *Sustainable AI*, *Web Sustainability*, *Cyber-security* 🔗
-- 🌱 With the desire to impact and empower citizens, I started my journey from humanities, political science, international relations, law, to, **most recently, UX/UI and Web Design** 🎨
+- 🔥 With the desire to impact and empower citizens, I started my journey from humanities, political science, international relations, law, to, **most recently, UX/UI and Web Design** 🎨
 - 🚀 I’m looking to collaborate on ***UX/UI*** & ***Web Design***, ***AI***, as well as ***Cyber-security*** 🔄
 - 📫 How to reach me: [![LinkedIn Badge](https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/anna-aseeva-40740210/)
 -  ⚡ In my free time I like having free time 👣
