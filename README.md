@@ -26,9 +26,9 @@ I’m a ***UX/UI Designer*** who loves forward-thinking and creates useful and i
 1. [Association Legal Design GARDEN](https://www.legal-design-garden.com/)
 2. [DOOR (a UX Study)](https://www.legal-design-garden.com/project-2)
 3. [CVAnnaAseeva](https://www.figma.com/file/25YgV5xpPEDNW1hn7Agcht/Anna-Aseeva_CV_Web-Designer?type=design&node-id=0-1&mode=design&t=lynKuGd84bxM9qR1-0)
-4. [My new portfolio (work in progress)](https://www.figma.com/file/tCCuPRkvsVWgUhyYawHbz3/Maquette_Portfolio-AVA_2nd-Version_with-Butterfly?type=design&node-id=202-286&mode=design&t=x4Iku30cwWLeV3pk-0)
+4. [My new portfolio (work in progress)] 🔜 (https://www.figma.com/file/tCCuPRkvsVWgUhyYawHbz3/Maquette_Portfolio-AVA_2nd-Version_with-Butterfly?type=design&node-id=202-286&mode=design&t=x4Iku30cwWLeV3pk-0)
 ## ✍️ Latest blog posts :
-- How do You Work with Designers to Create a Seamless User Experience? [a collaborative article, in progress]
+- How do You Work with Designers to Create a Seamless User Experience? [a collaborative article, in progress] 🔜
 - [Everything You Always Wanted to Know About AI* (*But Were Afraid to Ask): Generative AI and Your Data](https://www.legal-design-garden.com/post/how-and-why-to-balance-privacy-rights-and-public-policy-in-digital-economy-ai-and-your-data)
 - [Good AI Augments Humans, not Vice Versa](https://www.legal-design-garden.com/post/good-ai-augments-humans-not-vice-versa-they-say)
 <!---
