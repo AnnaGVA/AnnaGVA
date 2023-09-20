@@ -17,7 +17,7 @@ I’m a ***UX/UI Designer*** who loves forward-thinking and creates useful and i
 - 🔭 I create useful, engaging, and **intuitive tools** that help users to improve their lives 💞
 - 💜 I’m interested in *Web Design*, *Design Thinking*, *Sustainable AI*, *Web Sustainability*, *Cyber-security* 🔗
 - 🔥 With the desire to impact and empower citizens, I started my journey from humanities, political science, international relations, law, to, **most recently, UX/UI and Web Design** 🎨
-- 🚀 I’m looking to collaborate on Web Design, Design Thinking, Sustainable AI, Web Sustainability, Cyber-security 🔄
+- 🚀 I’m looking to collaborate on ***Web Design***, ***Design Thinking***, ***Sustainable AI***, ***Web Sustainability***, ***Cyber-security*** 🔄
 - 📫 How to reach me: [![LinkedIn Badge](https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/anna-aseeva-40740210/)
 -  ⚡ In my free time I like having free time 👣
 ## 🛠  Languages and tools :
@@ -38,32 +38,3 @@ I’m a ***UX/UI Designer*** who loves forward-thinking and creates useful and i
 AnnaGVA/AnnaGVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-image
-
-
-👋 Hi, I am Anna, a curious problem-solving creative!
-👩‍💻 About me :
-I’m a UX/UI Designer who loves forward-thinking and creates useful and intuitive products
-
-🔭 I create useful, engaging, and intuitive tools that help users to improve their lives 💞
-💜 I’m interested in Web Design, Design Thinking, Sustainable AI, Web Sustainability, Cyber-security 🔗
-🔥 With the desire to impact and empower citizens, I started my journey from humanities, political science, international relations, law, to, most recently, UX/UI and Web Design 🎨
-🚀 I’m looking to collaborate on UX/UI & Web Design, AI, as well as Cyber-security 🔄
-📫 How to reach me: LinkedIn Badge
-⚡ In my free time I like having free time 👣
-🛠 Languages and tools :
-Html5 Icon Png #364762 - Free Icons Library
-
-🚀 Latest projects :
-Association Legal Design GARDEN ✅
-DOOR (a UX Study) ✅
-CVAnnaAseeva ✅
-My new portfolio (work in progress) 🔜
-✍️ Latest blog posts :
-🔜 How do You Work with Designers to Create a Seamless User Experience? [a collaborative article, in progress]
-
-👀 Everything You Always Wanted to Know About AI* (*But Were Afraid to Ask): Generative AI and Your Data
-
-👀 Good AI Augments Humans, not Vice Versa
-
-Markdown 3131 bytes 256 words 39 lines Ln 4, Col 127HTML 931 characters 194 words 19 paragraphs
