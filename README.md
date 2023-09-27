@@ -12,9 +12,9 @@
 ## 👋 Hi, I am Anna, a curious problem-solving creative! 
 
 ### 👩‍💻  About me :
-I’m a ***UX/UI Designer*** who loves forward-thinking and creates useful and intuitive products
+I’m a ***Creative Professional*** who loves forward-thinking and makes useful and intuitive products
 
-- 🔭 I create useful, engaging, and `intuitive tools` that help users to improve their lives 💞
+- 🔭 I create useful, engaging, and `intuitive content & tools` that help users to improve their lives 💞
 - 💜 I’m interested in `Web Design`, `Design Thinking`, `Sustainable AI`, `Web Sustainability`, `Cyber-security` 🔗
 - 🔥 With the desire to impact and empower citizens, I started my journey from humanities, political science, international relations, law, to, `most recently, UX/UI and Web Design` 🦋
 - 🚀 I’m looking to collaborate on `<UX/UI & Web Design>`, `<AI>`, `<Cyber-security>` 🔄
