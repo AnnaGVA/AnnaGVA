@@ -22,7 +22,7 @@ I’m a ***Creative Professional*** who loves forward-thinking and makes useful 
 -  ⚡ In my free time I like having free time 👣
 ## 🛠  Languages and tools :
    📊 Analytics
-   https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+   <img src="{[BadgeURLHere](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)}"/>
 
 ## 🚀 Latest projects :
 1. [Association Legal Design GARDEN](https://www.legal-design-garden.com/) ✅
